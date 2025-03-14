@@ -1,6 +1,6 @@
 Mardown:
 
-https://dillinger.io: Dillinger est un éditeur de Markdown en ligne. Il offre une interface simple où tu peux écrire ton Markdown à gauche et voir en temps réel le rendu à droite
+https://dillinger.io: Dillinger est un éditeur de Markdown en ligne. Il offre une interface simple où tu peux écrire ton Markdown à gauche et voir en temps réel le rendu à droite.
 
 https://markable.in: Markable est une autre plateforme en ligne pour rédiger du Markdown. Elle est particulièrement utile si tu souhaites faire des conversions entre Markdown, HTML, ou encore PDF.
 
